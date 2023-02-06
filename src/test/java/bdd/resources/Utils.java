@@ -14,6 +14,7 @@ public class Utils {
         req =new RequestSpecBuilder().setBaseUri("https://rahulshettyacademy.com").addQueryParam("key", "qaclick123")
                 .setContentType(ContentType.JSON).build();
 
+
         return req;
     }
 }
