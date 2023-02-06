@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3c31300-a063-49c7-84da-a06270e17d49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/APIFramework/pojo/AddPlace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/APIFramework/pojo/Location.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/bdd/cucumber/Options/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/bdd/features/placeValidations.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/bdd/resources/TestDataBuild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/bdd/resources/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/bdd/stepDefinitions/StepDefinition.java" afterDir="false" />
-    </list>
+    <list default="true" id="e3c31300-a063-49c7-84da-a06270e17d49" name="Changes" comment="CucumberBDDAPI" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,8 +103,16 @@
       <option name="presentableId" value="Default" />
       <updated>1675707852587</updated>
       <workItem from="1675707853998" duration="5029000" />
-      <workItem from="1675713736495" duration="2380000" />
+      <workItem from="1675713736495" duration="2705000" />
     </task>
+    <task id="LOCAL-00001" summary="CucumberBDDAPI">
+      <created>1675716282075</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675716282075</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,5 +128,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CucumberBDDAPI" />
+    <option name="LAST_COMMIT_MESSAGE" value="CucumberBDDAPI" />
   </component>
 </project>
