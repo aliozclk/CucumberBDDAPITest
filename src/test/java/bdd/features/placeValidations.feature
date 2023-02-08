@@ -1,5 +1,6 @@
 Feature: Validating Place API's
 
+  @AddPlace
   Scenario Outline: Verify if Place is being successfully added using AddPlaceAPI
 
 
@@ -14,3 +15,11 @@ Feature: Validating Place API's
         | name    | language | address            | resources   | httpMethod |
         | AAhouse | English  | World cross center | addPlaceAPI | Post       |
         #| BBhouse | Spanish  | Sea cross center   | addPlaceAPI | Post       |
+
+  @deletePlace
+  Scenario: Verify if delete place functionality is working
+
+    Given Delete Place Payload
+    When the user calls "deletePlaceAPI" with "Post" http request
+    Then the API Call got success with status code 200
+    And "status" in response body is "OK"
