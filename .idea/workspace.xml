@@ -8,9 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/bdd/cucumber/Options/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/bdd/cucumber/Options/TestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/bdd/resources/TestDataBuild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/bdd/resources/TestDataBuild.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/bdd/resources/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/bdd/resources/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/bdd/stepDefinitions/StepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/bdd/stepDefinitions/StepDefinition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +55,7 @@
       <recent name="APIFramework.pojo" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Cucumber Java.Feature: placeValidations">
     <configuration name="Feature: placeValidations" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/bdd/features/placeValidations.feature" />
@@ -159,7 +156,9 @@
       <workItem from="1675713736495" duration="2743000" />
       <workItem from="1675780414840" duration="6404000" />
       <workItem from="1675791469123" duration="6542000" />
-      <workItem from="1675867330625" duration="5403000" />
+      <workItem from="1675867330625" duration="8195000" />
+      <workItem from="1675885618355" duration="31000" />
+      <workItem from="1675889765139" duration="32000" />
     </task>
     <task id="LOCAL-00001" summary="CucumberBDDAPI">
       <created>1675716282075</created>
@@ -238,7 +237,28 @@
       <option name="project" value="LOCAL" />
       <updated>1675872726531</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="CucumberBDDAPI">
+      <created>1675874737632</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1675874737632</updated>
+    </task>
+    <task id="LOCAL-00013" summary="CucumberBDDAPI">
+      <created>1675874754295</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1675874754295</updated>
+    </task>
+    <task id="LOCAL-00014" summary="CucumberBDDAPI">
+      <created>1675877516900</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1675877516900</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
